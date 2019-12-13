@@ -23,11 +23,11 @@
   "dependencies": {
     "bluebird": "3.0.5",
     "googleapis": "2.1.7",
-    "level": "1.6.0",
+    "level": "^4.0.0",
     "lodash": "3.10.1",
     "minimist": "1.2.0",
     "moment": "2.10.6",
-    "node-google-dfp": "0.2.1"
+    "node-google-dfp": "^0.3.2"
   },
   "devDependencies": {
     "replay": "git://github.com/spanishdict/node-replay#f012552fe1b373bc74d59750307f0a2d17c91aa9",
